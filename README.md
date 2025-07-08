@@ -30,7 +30,7 @@ Air pollution is a critical public health challenge, with industrial emissions c
 
 ## Data
 
-The data presented in the manuscript is available [here](Data/Data.xlsx).
+The data presented in the manuscript is available [here](Data).
 
 ---
 

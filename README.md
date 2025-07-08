@@ -24,6 +24,16 @@ Additionally, we identify optimal system parameters for effectively capturing pa
 particle diameters, paving the way for a more efficient and adaptable design for industrial air pollution
 control.
 
+<p align="center">
+  <img src="Supplemental%20Movies/Movie1.gif" width="40%">
+</p>
+
+<p align="center">
+  <em>
+    Movie 1: Oil encapsulation in the (a) dripping and (b) jetting regime for R̄ = 0.29 and Ca = 7.9 × 10⁻⁴.
+  </em>
+</p>
+
 ---
 
 ## Supplemental movies 

@@ -12,12 +12,15 @@ _under review_
 
 Air pollution is a critical public health challenge, with industrial emissions contributing significantly to particulate matter in the atmosphere. Wet scrubbers are widely employed to mitigate these emissions, making improvements in their efficiency an impactful pursuit. In this study, we analyze an atypical approach to liquid distribution in wet scrubbers that uses liquid flowing down vertical fibers. In this situation, the liquid film naturally destabilizes into periodic drops that flow along the fiber, offering several benefits. These include extended residence time, reduced pressure drop, monodisperse drop sizes and tunability of all of these, including the drop number density. The residence time and drop number density are the most significant of the aforementioned effects and are strongly affected by liquid properties. Accordingly, we chose to study silicone oils, available in a range of viscosities, to investigate the particle-capture efficiency of fiber-guided drops in various conditions, and demonstrate their potential to enhance the performance of wet scrubbers. Additionally, we identify optimal system parameters for effectively capturing particles across a range of particle diameters, paving the way for a more efficient and adaptable design for industrial air pollution control.
 
+<p align="center">
+<img src="Supplemental%20Movies/Movie1.gif" width="60%"><br>
+</p>
 
-<img src="Supplemental%20Movies/Movie1.gif" width="100%"><br>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <em>
+    Liquid drops flowing down a vertical fiber with radius R = 0.1 mm, for flowrates increasing from left to right.
+  </em>
+</p>
 
 ---
 

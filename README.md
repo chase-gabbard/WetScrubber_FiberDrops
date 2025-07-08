@@ -1,9 +1,9 @@
-# Improving wet scrubber efficiency using fiber-guided drops
+# WetScrubber_FiberDrops
 
 This repository contains the data and supplemental movies associated with the paper:
 
 **Gabbard _et al_., 2025**  
-_WetScrubber_FiberDrops_  
+_Improving wet scrubber efficiency using fiber-guided drops_  
 _under review_
 
 ---

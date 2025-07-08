@@ -20,7 +20,6 @@ Air pollution is a critical public health challenge, with industrial emissions c
 <td style="width:60%; text-align:center;">
 
 <img src="Supplemental%20Movies/Movie1.gif" width="100%"><br>
-<em>Liquid drops flowing down a vertical fiber with radius R = 0.1 mm, for flowrates increasing from left to right.</em>
 
 </td>
 </tr>

@@ -25,18 +25,14 @@ particle diameters, paving the way for a more efficient and adaptable design for
 control.
 
 <p align="center">
-  <img src="Supplemental%20Movies/Movie1.gif" width="40%">
+  <img src="Supplemental%20Movies/Movie1.gif" width="60%">
 </p>
 
 <p align="center">
   <em>
-    Movie 1: Oil encapsulation in the (a) dripping and (b) jetting regime for R̄ = 0.29 and Ca = 7.9 × 10⁻⁴.
+    Liquid drops flowing down a vertical fiber with radius R=0.1 mm, for flowrates increasing from left to right.
   </em>
 </p>
-
----
-
-## Supplemental movies 
 
 ---
 

@@ -10,19 +10,19 @@ _under review_
 
 ## Overview
 
-Particles floating at an oil–water interface can aggregate via lateral capillary interactions to form granular rafts
-with unique mechanical properties. When destabilized—either spontaneously or through external forcing—
-these rafts can encapsulate oil within armored drops. Here, we investigate the forced destabilization of such
-rafts by indenting them with cylinders of varying size and at various speeds. We identify three distinct phases
-of destabilization: stable deformation, particle ejection, and oil encapsulation. The onset of particle ejection is
-explained by considering the cumulative weight of particles coating the indenter, with the particle ejection rate
-increasing with indentation depth. The encapsulation process consists of a dripping regime, where individual
-encapsulated oil drops grow and detach under gravity, and a jetting regime, where a continuous oil thread breaks
-into drops via capillary instability. In the dripping regime, drop size increases with the indenter size, and drop
-frequency increases with indentation depth. In contrast, the jetting regime produces smaller, more frequent
-drops with higher size variability due to the dynamic nature of the instability. After destabilization, a residual
-cap of particles remains adhered to the indenter whose size scales with an effective Bond number incorporating
-the total particle weight.
+Air pollution is a critical public health challenge, with industrial emissions contributing significantly to
+particulate matter in the atmosphere.Wet scrubbers are widely employed to mitigate these emissions, making
+improvements in their efficiency an impactful pursuit. In this study, we analyze an atypical approach to liquid
+distribution in wet scrubbers that uses liquid flowing down vertical fibers. In this situation, the liquid film
+naturally destabilizes into periodic drops that flow along the fiber, offering several benefits. These include
+extended residence time, reduced pressure drop, monodisperse drop sizes and tunability of all of these,
+including the drop number density. The residence time and drop number density are the most significant of
+the aforementioned effects and are strongly affected by liquid properties. Accordingly, we chose to study
+silicone oils, available in a range of viscosities, to investigate the particle-capture efficiency of fiber-guided
+drops in various conditions, and demonstrate their potential to enhance the performance of wet scrubbers.
+Additionally, we identify optimal system parameters for effectively capturing particles across a range of
+particle diameters, paving the way for a more efficient and adaptable design for industrial air pollution
+control.
 
 ---
 
